@@ -25,7 +25,7 @@
  
  ##
  
-
+![Snake animation](https://github.com/adrian0sant0s/adrian0sant0s/blob/output/github-contribution-grid-snake.svg)
   
   
 
