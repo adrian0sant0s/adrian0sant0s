@@ -26,13 +26,6 @@
  
       
 </div>
- 
-
- 
- <div>
-  <img align="center"  height="100" width="150" border="5" alt="programming" src=https://i1.wp.com/pichiliani.com.br/wp-content/uploads/2014/06/4_Progresso4.gif>
- </div>
- 
 
 ![Snake animation](https://github.com/adrian0sant0s/adrian0sant0s/blob/output/github-contribution-grid-snake.svg)
   
