@@ -1,5 +1,7 @@
 ## Hi, i'm adrian0sant0s!
-- 📚 I’m currently learning Javascript.
+- 💻Java Script, Html and CSS.
+- 📚Currently studying Node and React.
+- 😎In search of new challenges.
 
  <div>
   <a href="https://github.com/adrian0sant0s">
@@ -20,7 +22,7 @@
   
   
 <div>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="" target="_blank"><img src=https://www.linkedin.com/in/adriano-jose-rodrigues-dos-santos-1046b0220/target="_blank"></a> 
  <a href = "mailto:adrianosantosr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_adriano9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
  
