@@ -1,5 +1,5 @@
 ## Hi, i'm adrian0sant0s!
-- 💻Java Script, Html and CSS.
+- 💻Java Script, CSS and Html.
 - 📚Currently studying Node and React.
 - 😎In search of new challenges.
 
