@@ -1,6 +1,6 @@
 ## Hi, i'm adrian0sant0s!
-- 💻Java Script, CSS and Html.
-- 📚Currently studying Node and React.
+- 💻JavaScript, ReactJs, NodeJs, CSS and Html.
+- 📚Currently studying Docker and MySQL.
 - 😎In search of new challenges.
 
  <div>
